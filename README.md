@@ -5,4 +5,4 @@ Solving Problem using Javascript
 
 #### Run in console
 
-node two-sum.js 
+    node two-sum.js 
